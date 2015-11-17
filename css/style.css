@@ -160,9 +160,23 @@ body {
   }
 }
 
+.navbar-brand{
+padding-top:6px;
+
+}
+
 
 #navbar {
     float: right;
+}
+
+.logo {
+    display:inline!important;
+    
+}
+
+.navbar-brand {
+    color: white!important;
 }
 
 .navbar {

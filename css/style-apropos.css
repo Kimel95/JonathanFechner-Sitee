@@ -1,0 +1,64 @@
+html,
+body {
+  background-image: url('../img/fond_a_propos.jpg');
+}
+
+.site-wrapper {
+    padding-top: 100px;
+}
+
+
+.footer {
+    background-color: rgba(255,255,255,0.5);
+    width: 100%;
+    color: black;
+}
+
+.profil {
+    border: 1px solid black;
+
+}
+
+.presentation .col-md-2, .presentation .col-md-10 {
+    margin: 0px;
+    padding: 0;
+}
+
+.presentation .col-md-10 {
+    padding-left: 5px;
+}
+
+.presentation p {
+    text-align: left;
+    font-size: 19px;
+}
+
+.cover-container {
+    width: 70%;
+    margin: auto;
+}
+
+.barre {
+    height: 1px;
+    border: 1px solid white;
+    width: 25%;
+    margin: auto;
+}
+
+.competence_profil {
+    margin-top: 30px;
+}
+
+.competence_profil p {
+    text-align: left;
+}
+
+.icon_comp {
+    font-size: 50px;
+    color: #7280a2;
+}
+
+
+.clear {
+    clear:both;
+}
